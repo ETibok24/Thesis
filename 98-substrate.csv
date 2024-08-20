@@ -1,0 +1,80 @@
+Isolate_Original,Isolate_ID,Location,Substrate,XC & PB's Isolates
+6,ET1,Cawsands,Treated Sediment,PB T1 3.1.CS M9
+13,ET2,Cawsands,Treated Sediment,PB T0 2.1.C M8
+15,ET3,Drake's Island,Treated Sediment,PB T0N3.1.D1 r1 M8 20
+19,ET4,Cawsands,Treated Sediment,PB T0 3.1.C M32
+23,ET5,Cawsands,Treated Sediment,PB T0 2.1.CS 10-2 M2 34
+26,ET6,Cawsands,Treated Sediment,PB T0 2.1.C M7
+27,ET7,Cawsands,Treated Sediment,PB T0 2.1.C M9
+28,ET8,Cawsands,Treated Sediment,PB T0 2.1.C M27
+29,ET9,Cawsands,Treated Sediment,PB T0 3.1.C M5
+30,ET10,Cawsands,Treated Sediment,PB T0 3.1.C M6
+33,ET11,Cawsands,Treated Sediment,PB T1 1.2.CSA M2
+40,ET12,Cawsands,Treated Sediment,PB T0 3.1.C M5
+42,ET13,Cawsands,Treated Sediment,PB T0 2.1.C M9
+43,ET14,Cawsands,Treated Sediment,PB T0 2.1.C M7
+46,ET15,Drake's Island,Treated Sediment,PB T1 3.1.D1 M7
+47,ET16,Cawsands,Treated Sediment,PB T0 1.1.C r2 n1
+48,ET17,Cawsands,Treated Sediment,PB T0 1.1.C 10-3 r1 n6
+49,ET18,Drake's Island,Treated Sediment,PB T1 3.1.DIA M8
+53,ET19,Cawsands,Treated Sediment,PB T0 2.1.CS 10-2 M2 34
+62,ET20,Cawsands,Treated Sediment,PB T1 3.1.C M1
+71,ET21,Cawsands,Treated Sediment,PB T0 3.1.C M9
+72,ET22,Cawsands,Treated Sediment,PB T1 3.1.CSA M4
+73,ET23,Drake's Island,Treated Sediment,PB T1 1.1.D1 r2n5
+75,ET24,Cawsands,Treated Sediment,PB 1.1.C r2n3
+77,ET25,Cawsands,Treated Sediment,PB T1 2.1.CS M7
+82,ET26,Cawsands,Treated Sediment,PB T0 2.1.C M8
+89,ET27,Cawsands,Treated Sediment,PB T1 1.2.CSA M29
+90,ET28,Cawsands,Treated Sediment,PB T0 3.1.C M7
+94,ET29,Drake's Island,Treated Sediment,PB T1 1.1.D1 r1n4
+98,ET30,Cawsands,Treated Sediment,PBB T1 1.1.CS r1n5
+114,ET33,Cawsands,Natural Sediment,XC T0 CS3.1 10-3 M2
+115,ET34,Drake's Island,Natural Sediment,XC T0 DI2.1 10-2 M5
+116,ET35,Cawsands,Treated Sediment,PB T0 3.1.C M32
+120,ET36,Drake's Island,Treated Sediment,PB T0 3.1.D1 r1 M8 20
+125,ET37,Cawsands,Natural Sediment,XC T0 CS3.1 M7
+136,ET40,Drake's Island,Root,ROOT D1 10-2 M1
+143,ET42,Cawsands,Root,ROOT C2 10-1 M1
+144,ET43,Drake's Island,Root,ROOT D2 10-2 M6
+145,ET44,Cawsands,Root,ROOT C3 10-3 M2
+146,ET45,Drake's Island,Root,ROOT D3 10-2 M1
+147,ET46,Cawsands,Root,ROOT C2 10-21 M4
+160,ET48,Drake's Island,Natural Sediment,T0 D1 3.1 10-2 M10
+175,ET49,Drake's Island,Root,ROOT D1 10-2 M2
+176,ET50,Cawsands,Root,C1 10-1 ROOT M3
+179,ET51,Cawsands,Root,ROOT 10-1 C2 M5
+180,ET52,Cawsands,Natural Sediment,XC T0 CS1.1 10-3 M5
+182,ET53,Drake's Island,Root,ROOT D3 10-2 M8
+189,ET54,Cawsands,Root,ROOT C3 10-3 M2
+192,ET55,Cawsands,Treated Sediment,PB T0 1.1 Cr1n3
+195,ET56,Cawsands,Treated Sediment,PB T0 1.1.C 10-3 r1n4
+199,ET57,Cawsands,Treated Sediment,PB T0 1.1.C r2n3
+200,ET58,Cawsands,Treated Sediment,PB T1 1.1.CSA r2n5
+101R2,ET59,Cawsands,Root,C1 10-1 ROOT M2
+106R2,ET60,Cawsands,Treated Sediment,PB T1 3.1.C M9
+11R,ET61,Drake's Island,Treated Sediment,PB T1 3.1.DIA M20
+129R,ET62,Cawsands,Natural Sediment,XC T0 CS2.1 10-2 M6
+139R2,ET66,Cawsands,Root,ROOT C2 10-1 M9
+151R,ET68,Cawsands,Root,ROOT C1 10-1 M5
+156R2,ET70,Cawsands,Natural Sediment,XC T0 CS 2.1 10-2 M27
+163R2,ET76,Cawsands,Root,ROOT C2 10-1 M9
+168R2,ET79,Cawsands,Root,ROOT C1 10-1 M3
+169R2,ET80,Cawsands,Root,ROOT C2 10-1 M2
+172R2,ET81,Cawsands,Root,ROOT C3 10-3 M1
+173R2,ET82,Cawsands,Root,ROOT C3 10-3 M11
+175R,ET83,Drake's Island,Root,ROOT D1 10-2 M2
+178R,ET84,Cawsands,Root,ROOT C3 10-2 M14
+179R2,ET85,Cawsands,Root,ROOT 10-1 C2 M5
+184R2,ET87,Drake's Island,Root,ROOT D1 10-2 M2
+185aR,ET88,Drake's Island,Natural Sediment,T0 D1 3.1 10-2 M10
+185bR,ET89,Drake's Island,Natural Sediment,T0 D1 3.1 10-2 M10
+197R,ET90,Cawsands,Treated Sediment,PB T1 1.1.CSA r1n10
+1R,ET91,Drake's Island,Treated Sediment,PB T1 3.1.DIA M8
+205aR,ET92,Drake's Island,Treated Sediment,PB 1.1.DIA r1n7
+205bR,ET93,Drake's Island,Treated Sediment,PB 1.1.DIA r1n7
+70R,ET94,Cawsands,Treated Sediment,PB T1 1.2.C M29
+78R2,ET95,Cawsands,Root,C1 10-1 ROOT M1
+79R,ET96,Drake's Island,Natural Sediment,XC T0DI2.1 10-2 M1
+96aR,ET97,Cawsands,Treated Sediment,PB T1 1.1.CSA r12n8
+96bR,ET98,Cawsands,Treated Sediment,PB T1 1.1.CSA r12n8

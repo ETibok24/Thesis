@@ -1,0 +1,99 @@
+Isolate_ID,Mean_Chitinase,OD_Reading,Location,Substrate,Final
+ET1,22.5,0.339,Cawsands,Treated Sediment,66.37
+ET2,4.75,0.121,Cawsands,Treated Sediment,39.26
+ET3,2.5,0.133,Drake's Island,Treated Sediment,18.8
+ET4,1.75,0.098,Cawsands,Treated Sediment,17.86
+ET5,18,0.125,Cawsands,Treated Sediment,144
+ET6,38.5,0.097,Cawsands,Treated Sediment,396.91
+ET7,134.5,0.121,Cawsands,Treated Sediment,1111.57
+ET8,15.75,0.128,Cawsands,Treated Sediment,123.05
+ET9,17.25,0.109,Cawsands,Treated Sediment,158.26
+ET10,-0.5,0.175,Cawsands,Treated Sediment,-2.86
+ET11,-1.25,0.104,Cawsands,Treated Sediment,-12.02
+ET12,41.25,0.117,Cawsands,Treated Sediment,352.56
+ET13,246,0.151,Cawsands,Treated Sediment,1629.14
+ET14,18,0.242,Cawsands,Treated Sediment,74.38
+ET15,-1,0.168,Drake's Island,Treated Sediment,-5.95
+ET16,3.5,0.122,Cawsands,Treated Sediment,28.69
+ET17,-1,0.116,Cawsands,Treated Sediment,-8.62
+ET18,12.5,0.172,Drake's Island,Treated Sediment,72.67
+ET19,4.25,0.142,Cawsands,Treated Sediment,29.93
+ET20,0.5,0.124,Cawsands,Treated Sediment,4.03
+ET21,2.5,0.286,Cawsands,Treated Sediment,8.74
+ET22,6.25,0.262,Cawsands,Treated Sediment,23.85
+ET23,-1,0.115,Drake's Island,Treated Sediment,-8.7
+ET24,0,0.119,Cawsands,Treated Sediment,0
+ET25,11.25,0.142,Cawsands,Treated Sediment,79.23
+ET26,3.75,0.119,Cawsands,Treated Sediment,31.51
+ET27,2.25,0.172,Cawsands,Treated Sediment,13.08
+ET28,15,0.203,Cawsands,Treated Sediment,73.89
+ET29,-1,0.111,Drake's Island,Treated Sediment,-9.01
+ET30,7.5,0.212,Cawsands,Treated Sediment,35.38
+ET31,16.75,0.195,Jennycliff Bay,Root,85.9
+ET32,3.5,0.159,Jennycliff Bay,Natural Sediment,22.01
+ET33,3,0.216,Cawsands,Natural Sediment,13.89
+ET34,-0.5,0.116,Drake's Island,Natural Sediment,-4.31
+ET35,-0.5,0.121,Cawsands,Treated Sediment,-4.13
+ET36,-0.75,0.094,Drake's Island,Treated Sediment,-7.98
+ET37,-1,0.095,Cawsands,Natural Sediment,-10.53
+ET38,46.75,0.257,Jennycliff Bay,Natural Sediment,181.91
+ET39,190.5,0.282,Jennycliff Bay,Natural Sediment,675.53
+ET40,2.75,0.131,Drake's Island,Root,20.99
+ET41,114.5,0.181,Jennycliff Bay,Natural Sediment,632.6
+ET42,815.25,0.44,Cawsands,Root,1852.84
+ET43,2,0.129,Drake's Island,Root,15.5
+ET44,197,0.452,Cawsands,Root,435.84
+ET45,37.75,0.216,Drake's Island,Root,174.77
+ET46,-0.5,0.093,Cawsands,Root,-5.38
+ET47,5,0.221,Jennycliff Bay,Root,22.62
+ET48,-0.5,0.131,Drake's Island,Natural Sediment,-3.82
+ET49,-1.25,0.1,Drake's Island,Root,-12.5
+ET50,0.25,0.184,Cawsands,Root,1.36
+ET51,3.25,0.162,Cawsands,Root,20.06
+ET52,3.25,0.231,Cawsands,Natural Sediment,14.07
+ET53,13.5,0.14,Drake's Island,Root,96.43
+ET54,-0.5,0.13,Cawsands,Root,-3.85
+ET55,6.5,0.086,Cawsands,Treated Sediment,75.58
+ET56,2.5,0.129,Cawsands,Treated Sediment,19.38
+ET57,27.75,0.149,Cawsands,Treated Sediment,186.24
+ET58,1,0.14,Cawsands,Treated Sediment,7.14
+ET59,0.75,0.194,Cawsands,Root,3.87
+ET60,196.5,0.127,Cawsands,Treated Sediment,1547.24
+ET61,14007.5,0.178,Drake's Island,Treated Sediment,78693.82
+ET62,7.75,0.193,Cawsands,Natural Sediment,40.16
+ET63,1.75,0.168,Jennycliff Bay,Natural Sediment,10.42
+ET64,10.25,0.304,Jennycliff Bay,Natural Sediment,33.72
+ET65,-1.5,0.275,Jennycliff Bay,Natural Sediment,-5.45
+ET66,-0.25,0.096,Cawsands,Root,-2.6
+ET67,0.25,0.105,Jennycliff Bay,Root,2.38
+ET68,6.75,0.099,Cawsands,Root,68.18
+ET69,1.5,0.338,Jennycliff Bay,Root,4.44
+ET70,2.75,0.215,Cawsands,Natural Sediment,12.79
+ET71,3.5,0.203,Jennycliff Bay,Natural Sediment,17.24
+ET72,3.25,0.289,Jennycliff Bay,Natural Sediment,11.25
+ET73,7.5,0.167,Jennycliff Bay,Natural Sediment,44.91
+ET74,6.25,0.136,Jennycliff Bay,Natural Sediment,45.96
+ET75,0.5,0.113,Jennycliff Bay,Natural Sediment,4.42
+ET76,1,0.108,Cawsands,Root,9.26
+ET77,16,0.121,Jennycliff Bay,Root,132.23
+ET78,65.5,0.288,Jennycliff Bay,Root,227.43
+ET79,16.75,0.163,Cawsands,Root,102.76
+ET80,7.25,0.23,Cawsands,Root,31.52
+ET81,27,0.118,Cawsands,Root,228.81
+ET82,6.25,0.11,Cawsands,Root,56.82
+ET83,4.5,0.311,Drake's Island,Root,14.47
+ET84,3.25,0.149,Cawsands,Root,21.81
+ET85,0,0.147,Cawsands,Root,0
+ET86,24.5,0.176,Jennycliff Bay,Root,139.2
+ET87,-0.25,0.128,Drake's Island,Root,-1.95
+ET88,-0.75,0.122,Drake's Island,Natural Sediment,-6.15
+ET89,-0.25,0.13,Drake's Island,Natural Sediment,-1.92
+ET90,-0.75,0.143,Cawsands,Treated Sediment,-5.24
+ET91,10.25,0.124,Drake's Island,Treated Sediment,82.66
+ET92,1.75,0.192,Drake's Island,Treated Sediment,9.11
+ET93,20,0.097,Drake's Island,Treated Sediment,206.19
+ET94,-0.75,0.095,Cawsands,Treated Sediment,-7.89
+ET95,5.5,0.167,Cawsands,Root,32.93
+ET96,-0.5,0.119,Drake's Island,Natural Sediment,-4.2
+ET97,1.5,0.099,Cawsands,Treated Sediment,15.15
+ET98,1.25,0.101,Cawsands,Treated Sediment,12.38
