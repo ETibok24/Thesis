@@ -86,3 +86,6 @@ s98 <- ggplot(isolate_nos, aes(x = Substrate, y = count, fill = Substrate)) +
 
 # Arrange the plots side by side
 grid.arrange(s98, l98, ncol = 2)
+
+ggsave("98complete300dpi.png", plot = combined_plot, 
+       width = 10, height = 6, dpi = 300)  # Set dpi to 300 for high quality
