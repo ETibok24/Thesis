@@ -31,7 +31,7 @@ plocation <- ggplot(location_summary, aes(x = Location, y = Proportion, fill = G
   scale_fill_manual(values = c("N" = "#ffccff", "Y" = "#ff66ff")) +
   theme_minimal() +
   theme(axis.text.x = element_text(size = 10, angle = 40, hjust = 1),
-        plot.title = element_text(size = 9.3, hjust = 0.5),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "right")
 
 # Substrate data processing for proportions and SE
@@ -52,8 +52,8 @@ psubstrate <- ggplot(substrate_summary, aes(x = Substrate, y = Proportion, fill 
        x = "Substrate") +
   scale_fill_manual(values = c("N" = "#ffccff", "Y" = "#ff66ff")) +
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 9, angle = 35, hjust = 1),
-        plot.title = element_text(size = 10, hjust = 0.5),
+  theme(axis.text.x = element_text(size = 10, angle = 35, hjust = 1),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "none")
 
 # Combine the plots and place the legend between them
@@ -66,6 +66,9 @@ final_plot <- plot_grid(
 
 # Display the final combined plot
 print(final_plot)
+
+ggsave("phosphateerrorbar.png", plot = final_plot, 
+       width = 10, height = 6, dpi = 300)  # Set dpi to 300 for high quality
 
 # Calculating exact proportions for reference
 # Create the contingency table for substrates
