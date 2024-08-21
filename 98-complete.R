@@ -36,6 +36,7 @@ l98 <- ggplot(isolate_nol, aes(x = Location, y = count, fill = Location)) +
   scale_fill_manual(values = c("Cawsands" = "#cc99ff", 
                                "Drake's Island" = "#99ccff",
                                "Jennycliff Bay" = "#ff9999")) +
+  ylim(0, 60) +  # Set y-axis limits to the same scale
   theme_minimal() +
   theme(axis.text.x = element_text(size = 7, angle = 45, hjust = 1),
         plot.title = element_text(hjust = 0.5),
@@ -75,8 +76,9 @@ s98 <- ggplot(isolate_nos, aes(x = Substrate, y = count, fill = Substrate)) +
   scale_fill_manual(values = c("Treated Sediment" = "#ffcc99", 
                                "Root" = "#ffff99",
                                "Natural Sediment" = "#99ffcc")) +
+  ylim(0, 60) +  # Set y-axis limits to the same scale
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 7, angle = 45, hjust = 1),
+  theme(axis.text.x = element_text(size = 7, angle = 35, hjust = 1),
         plot.title = element_text(hjust = 0.5),
         legend.position = "bottom",
         theme(legend.title = element_text(size = 5)),
