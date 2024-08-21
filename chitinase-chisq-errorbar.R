@@ -69,8 +69,8 @@ clocation <- ggplot(activityl_df, aes(x = Location, y = Proportion,
   scale_y_continuous(limits = c(0, 1)) +  # Adjust y-axis to proportion scale (0-1)
   scale_fill_manual(values = c("Inactive" = "#ffccff", "Active" = "#ff66ff")) +
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 9, angle = 45, hjust = 1),
-        plot.title = element_text(size = 9, hjust = 0.5),
+  theme(axis.text.x = element_text(size = 10, angle = 45, hjust = 1),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "right")
 
 # Create the side-by-side bar graph for Substrate with proportions and error bars
@@ -87,8 +87,8 @@ csubstrate <- ggplot(activitys_df, aes(x = Substrate, y = Proportion,
   scale_y_continuous(limits = c(0, 1)) +  # Adjust y-axis to proportion scale (0-1)
   scale_fill_manual(values = c("Inactive" = "#ffccff", "Active" = "#ff66ff")) +
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 9, angle = 35, hjust = 1),
-        plot.title = element_text(size = 9, hjust = 0.5),
+  theme(axis.text.x = element_text(size = 10, angle = 35, hjust = 1),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "none")
 
 #### Combine Plots
@@ -101,6 +101,9 @@ final_plot <- plot_grid(
 )
 
 print(final_plot)
+
+ggsave("chitinaseerrorbar.png", plot = final_plot, 
+       width = 10, height = 6, dpi = 300)  # Set dpi to 300 for highqualityprint
 
 ### Getting count 
 isolate_no <- chitinasel %>%
