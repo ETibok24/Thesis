@@ -30,8 +30,8 @@ atmnsubstrate <- ggplot(substrate_summary, aes(x = Substrate, y = Proportion, fi
                      breaks = seq(0, 1, by = 0.25)) +  # Ensure 1.00 is included
   scale_fill_manual(values = c("N" = "#ffccff", "Y" = "#ff66ff")) +
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 9, angle = 35, hjust = 1),
-        plot.title = element_text(size = 10, hjust = 0.5),
+  theme(axis.text.x = element_text(size = 10, angle = 35, hjust = 1),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "none")
 
 
@@ -61,8 +61,8 @@ atmnlocation <- ggplot(location_summary, aes(x = Location, y = Proportion, fill 
                      breaks = seq(0, 1, by = 0.25)) +  # Ensure 1.00 is included
   scale_fill_manual(values = c("N" = "#ffccff", "Y" = "#ff66ff")) +
   theme_minimal() +
-  theme(axis.text.x = element_text(size = 9, angle = 45, hjust = 1),
-        plot.title = element_text(size = 10, hjust = 0.5),
+  theme(axis.text.x = element_text(size = 10, angle = 45, hjust = 1),
+        plot.title = element_text(size = 12, hjust = 0.5),
         legend.position = "right")
 
 
@@ -76,6 +76,9 @@ final_plot <- plot_grid(
 
 # Display the final combined plot
 print(final_plot)
+
+ggsave("atmnerrorbar.png", plot = final_plot, 
+       width = 10, height = 6, dpi = 300)  # Set dpi to 300 for high quality
 
 # Calculating exact proportions for reference
 # Create the contingency table for substrates
